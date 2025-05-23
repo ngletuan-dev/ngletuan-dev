@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20my%20name%20is%20Tuan;I%20I%20am%20specializing%20==%20iOS%20Developer;Experience%20iOS%20==%206%20years;Most%20Most%20used%20languages%20==%20Swift%20and%20Python;If%20you%20liked%20follow-me%20and%20like%20my%20work;Thanks%20:D&font=Fira%20Code&center=true&width=440&height=45&color=058182&vCenter=true&size=22"></a>
 </p>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tuan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="timashan" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngletuan-dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="timashan" /></div>
 
 
 <div align="center">
@@ -18,12 +18,26 @@
   
 <div align="center" style="display: inline_block"><br>
   <h1>Skills<p>🤓</p></h1>
-  <img align="center" alt="ngletuan-iOS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+  <img align="center" alt="ngletuan-ios" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
   <img align="center" alt="ngletuan-objectivec" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg">
-  <img align="center" alt="ngletuan-Ruby" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="ngletuan-Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="ngletuan-R" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Bruno-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="ngletuan-python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="ngletuan-javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="ngletuan-r" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+  <img align="center" alt="ngletuan-ruby" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="ngletuan-reactjs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="ngletuan-nodejs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="ngletuan-docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="ngletuan-ubuntu" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg">
+  <img align="center" alt="ngletuan-linux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="ngletuan-ssh" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
+  <img align="center" alt="ngletuan-azure" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
+  <img align="center" alt="ngletuan-aws" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="ngletuan-gcp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="ngletuan-firebase" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+  <img align="center" alt="ngletuan-mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="ngletuan-postgresql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="ngletuan-jira" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
+  <img align="center" alt="ngletuan-git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
   
   ##
