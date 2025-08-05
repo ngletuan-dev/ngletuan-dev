@@ -24,7 +24,7 @@
   <img align="center" alt="ngletuan-javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="ngletuan-r" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="ngletuan-ruby" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="ngletuan-html5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="ngletuan-html5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="ngletuan-reactjs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="ngletuan-nodejs" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="ngletuan-tailwindcss" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
