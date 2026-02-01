@@ -4,14 +4,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+My+name's+Tuan;I'm+a+Software+Engineer;With+6%2B+years+iOS+software+engineer;and+3%2B+years+full-stack+engineer&font=Fira%20Code&center=true&width=460&height=45&color=058182&vCenter=true&size=22" alt="Typing SVG" /></a>
 </p>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngletuan-dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Typing SVG"/></div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngletuan-dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="ngletuan"/>
+</div>
 
 
 <div align="center">
   <h1>Utils<p>📒</p></h1>
   <a href="https://github.com/ngletuan-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngletuan-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngletuan-dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngletuan-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="ngletuan"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngletuan-dev&layout=compact&langs_count=7&theme=dark" alt="ngletuan"/>
 </div>
   
   ##
