@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=ngletuan&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <p align="center" width=100% >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+My+name's+Tuan;I'm+a+Software+Engineer;With+6%2B+years+iOS+software+engineer;and+3%2B+years+full-stack+engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+My+name's+Tuan;I'm+a+Software+Engineer;With+6%2B+years+iOS+software+engineer;and+3%2B+years+full-stack+engineer&font=Fira%20Code&center=true&width=440&height=45&color=058182&vCenter=true&size=22" alt="Typing SVG" /></a>
 </p>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ngletuan-dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="timashan" /></div>
