@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=ngletuan&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<p align="center">
+<p align="center" width=100% >
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+My+name's+Tuan;I'm+a+Software+Engineer;With+6%2B+years+of+experience+as+an+iOS+software+engineer;and+3%2B+years+of+experience+as+a+full-stack+engineer" alt="Typing SVG" /></a>
 </p>
 
